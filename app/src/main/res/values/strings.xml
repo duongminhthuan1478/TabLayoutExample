@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabLayoutExample</string>
+
+
+    <string name="text_third">Third Fragment</string>
+    <string name="text_second">Second Fragment</string>
+    <string name="text_first">First Fragment</string>
+
+</resources>
